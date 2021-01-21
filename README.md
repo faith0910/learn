@@ -6,3 +6,4 @@
 至少曾经有人被你的魅力所吸引
 曾经是，以后也会是"
 a new branch is quick AND simple.
+Creating a new branch is quick AND simple.
